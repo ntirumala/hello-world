@@ -1,2 +1,3 @@
-# hello-world
-Testing GitHub pages
+# Hello World
+
+Hello World. Testing GitHub pages.
